@@ -1,4 +1,4 @@
-example.property: "I AM IN THE DEFAULT TEST update"
+example.property: "I AM IN THE DEFAULT NEW UPDATE"
 spring.jpa.database: "POSTGRESQL"
 spring.datasource.platform:  "postgres"
 spring.jpa.show-sql: "true"
